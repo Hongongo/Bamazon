@@ -7,10 +7,13 @@ This project is an amazon like store built with Node.js and MySQL, you can see /
 ## How can I use it?
 To run this app you need an MySQL graphic interface (preferably) to run the schema and seeds located in the 'db' directory.
 
-With the database and seeds set up you can go into the terminal in the project directory and run one of the following command depending on your needs:
+With the database and seeds set up you can go into the terminal in the project directory and run one of the following commands depending on your needs:
 
 ##### Customer module:
 * *node bamazonCustomer.js* - You can see and buy products-
+
+##### Customer module:
+* *node bamazonManager.js* - You can see all the products, all low inventory products, update the stock quantity of a product and add a new product.
 
 ## Built With
 * [NodeJs](https://nodejs.org/en/)
@@ -18,8 +21,11 @@ With the database and seeds set up you can go into the terminal in the project d
 * [Inquirer](https://www.npmjs.com/package/inquirer)
 
 ## Demo
-##### Customer module:
+#### Customer module:
 ![alt text](https://github.com/Hongongo/Bamazon/blob/master/demo/bamazonCustomer.gif "Demo Gif")
+
+#### Manager module:
+![alt text](https://github.com/Hongongo/Bamazon/blob/master/demo/bamazonManager.gif "Demo Gif")
 
 ## Author
 
