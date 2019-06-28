@@ -19,7 +19,7 @@ With the database and seeds set up you can go into the terminal in the project d
 
 ## Demo
 ##### Customer module:
-![alt text]( "Demo Gif")
+![alt text](https://github.com/Hongongo/Bamazon/blob/master/demo/bamazonCustomer.gif "Demo Gif")
 
 ## Author
 
